@@ -1,0 +1,174 @@
+.links {
+    margin-left: 30%;
+    
+}
+.link {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 90px;
+}
+.btn {
+    width: 170px;
+    background-color: #4CAF4F !important;
+    color: white !important;
+    border: none;
+}
+.css-text-box {
+    margin-top: 20%;
+}
+.css-text-box h1 {
+    font-size: 60px;
+    color: #4D4D4D;
+}
+.css-text-box h2 {
+    font-size: 60px;
+    color: #4CAF4F;
+}
+.css-img-box {
+    position: relative;
+    left: 25%;
+    top: 80px;
+}
+.css-img-box img {
+    width: 450px !important;
+}
+.css-text-box p {
+    font-size: 18px;
+    padding-top: 20px;
+}
+.css-text-box button {
+    width: 100px;
+    height: 45px;
+    margin-top: 30px;
+    color: white;
+    background-color: #4CAF4F;
+    border: none;
+}
+.dots {
+    margin-left: 50%;
+}
+
+.contain h1 {
+    margin-left: 44%;
+    color: #4D4D4D;
+}
+.contain p {
+    font-size: 18px;
+    margin-left: 37%;
+    margin-top: 20px;
+}
+.Logos {
+    margin-left: 24%;
+}
+.center {
+    margin-left: 34%;
+}
+#cen {
+    margin-left: 90px;
+}
+.center p {
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.photos {
+    margin-right: 9%;;
+    
+}
+#photo-1 {
+    margin-left: 15%;
+}
+#photo-2 {
+    margin-left: 15%;
+}
+#photo-3 {
+    margin-left: 15%;
+}
+.text {
+    margin-left: 30%;
+}
+.text img {
+    margin-left: 26%;
+}
+#email {
+    width: 160px;
+    font-size: 14px;
+    height: 32px;
+    background-color: grey;
+    border: none;
+    margin-top: 20px;
+}
+.foot {
+    background: #263238 !important;
+    color: white;
+}
+#log {
+    color: white !important;
+}
+.decor {
+    margin-top: 30px !important;
+}
+.decor a {
+    text-decoration: none !important;
+}
+input::placeholder {
+    color: rgb(49, 49, 49) !important;
+}
+.mein {
+    margin-top: 25px !important;
+}
+#foote {
+    margin-top: 40px !important;
+}
+@media (max-width : 768px) {
+
+   .links {
+    margin-right: 60%;
+   }
+   .links a {
+    margin-left: 50px;
+   }
+   .css-img-box img {
+    position: relative;
+    right: 20%;
+   }
+   .contain {
+    margin-right: 20%;
+   }
+   .contain p {
+    width: 450px;
+    margin-left: 99px;
+
+   }
+   .Logos {
+    position: relative;
+    right: 50%;
+   }
+   .center {
+    position: relative;
+    right: 20%;
+   }
+   .photos {
+    position: relative;
+    left: 20%;
+   }
+   .text h1 {
+    position: relative;
+    right: 14%;  
+    font-size: 25px;
+   }
+   .text img {
+    position: relative;
+    right: 14%;
+   }
+   #foote {
+    position: relative;
+    left: 10%;
+   }
+
+
+}
+
+
+
+
+
